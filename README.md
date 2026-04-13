@@ -1,4 +1,6 @@
-# 👋 Hi, I'm David Backend engineer focused on building reliable, well-structured APIs and server-side systems. I work primarily with Java (Spring Boot) and Python (FastAPI), and I care about understanding the code I write — not just shipping it.
+# 👋 Hi, 
+
+I'm David Backend engineer focused on building reliable, well-structured APIs and server-side systems. I work primarily with Java (Spring Boot) and Python (FastAPI), and I care about understanding the code I write — not just shipping it.
 
 ---
 
