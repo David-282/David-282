@@ -28,4 +28,4 @@ Open to work: backend and full-stack roles (remote or Lagos).
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/david-afolabi-096766242) · your-email@example.com
+[LinkedIn](https://www.linkedin.com/in/david-afolabi-096766242) · afolavidavid94@gmail.com
