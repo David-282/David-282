@@ -2,7 +2,7 @@
 
 Full-stack software engineer in Lagos, Nigeria, with a backend focus. I design and build the server side of web applications (APIs, databases, authentication and system architecture) and I build React interfaces to go with them, so I can take a feature from the database to the screen.
 
-My main stack is Java (Spring Boot) and Python (FastAPI, Django, Flask), with PostgreSQL, Redis and MongoDB. I like clean, modular design, secure authentication, and well-documented, tested code. I trained through Semicolon Africa's software engineering program, where I built my capstone project, and I contribute to open-source Stellar ecosystem projects. I care about understanding the code I write, not just shipping it.
+My main stack is Java (Spring Boot) and Python (FastAPI, Django, Flask), with PostgreSQL, Redis and MongoDB. I build clean, secure, well-documented systems: modular monoliths and microservices, JWT and role-based authentication, event-driven design, and APIs with full OpenAPI docs. I trained through Semicolon Africa’s software engineering program, where I built production-grade applications end to end, and I contribute to open-source Stellar ecosystem projects.. I care about understanding the code I write, not just shipping it.
 
 **What I'm good at**
 - Designing REST APIs with Swagger/OpenAPI docs
@@ -10,8 +10,10 @@ My main stack is Java (Spring Boot) and Python (FastAPI, Django, Flask), with Po
 - Modular monoliths, microservices and event-driven design
 - CI pipelines and Docker-based development
 - Turning requirements into PRDs, use cases and class diagrams before writing code
+- Designing user friendly interface
+- Connecting frontend to backend  
 
-Open to work: backend and full-stack roles (remote, Lagos or ogun state).
+Open to work: backend and full-stack roles (remote, Lagos or Ogun State).
 
 ---
 
