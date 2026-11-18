@@ -17,12 +17,19 @@ Open to work: backend and full-stack roles (remote or Lagos).
 
 ## Featured Projects
 
-**[SoloRecord](LINK-TO-SOLORECORD-REPO)**: Full-stack medical records platform where patients control which hospitals can access their data. Spring Boot modular monolith with JWT auth and role-based access, PostgreSQL, Redis (OTP and rate limiting), event-driven modules, outbreak detection from lab results, a React frontend, and a GitHub Actions CI pipeline.
+## Featured Projects
 
-**[MediBook](LINK-TO-MEDIBOOK-REPO)**: Hospital appointment booking system built as Spring Boot microservices, using OpenFeign, Resilience4j and Spring Cloud Gateway.
+**[SoloRecord](LINK-TO-SOLORECORD-REPO)**: Medical records platform where patients decide which hospitals can access their data. Spring Boot modular monolith with JWT auth and role-based access, Redis-backed OTP verification and rate limiting, per-facility patient consent, facility onboarding with approval flow, PostgreSQL, and a GitHub Actions CI pipeline.
+*In progress:* clinical records, lab results, outbreak detection from lab results, and the React frontend.
 
-**Stellar / Soroban**: Open-source contributions to Stellar ecosystem projects through the Wave Program.
+**[MediBook](LINK-TO-MEDIBOOK-REPO)**: Hospital appointment booking system built as Spring Boot microservices, with Spring Cloud Gateway, a database per service, and a Kafka-based saga that keeps auth and user registration consistent.
+*In progress:* doctor, appointment, notification and analytics services.
 
+**[FoodDash](LIVE-LINK)**: Food ordering app built with a teammate. Customers order for pickup or delivery and track status live over WebSockets; staff manage orders and the menu from a dashboard. Go (Gin), PostgreSQL, React and Tailwind. *My part: [YOUR PART].*
+
+**[ResultPortal](LINK-TO-RESULTPORTAL-REPO)**: Django REST API for university academics: role-based accounts, departments, courses and academic sessions, with JWT auth, Swagger docs and a Dockerized PostgreSQL setup. *Coming soon:* result upload and publishing.
+
+**Stellar / Soroban**: Open-source contributions to Stellar ecosystem projects (Predictify Backend, Callora Backend, Harvest Finance and others) across TypeScript/NestJS, Rust and Spring Boot. Highlights: [PR LINK 1], [PR LINK 2], [PR LINK 3].
 ---
 
 ## Tech Stack
