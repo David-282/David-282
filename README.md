@@ -31,7 +31,7 @@ Open to work: backend and full-stack roles (remote, Lagos or ogun state).
 **[ResultPortal](LINK-TO-RESULTPORTAL-REPO)**: Django REST API for university academics: role-based accounts, departments, courses and academic sessions, with JWT auth, Swagger docs and a Dockerized PostgreSQL setup. *Coming soon:* result upload and publishing.
 
 **Stellar / Soroban**: Open-source contributions to Stellar ecosystem projects (Predictify Backend, Callora Backend, Harvest Finance and others) across TypeScript/NestJS, Rust and Spring Boot.
----
+
 
 ## Tech Stack
 
