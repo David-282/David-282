@@ -11,7 +11,7 @@ My main stack is Java (Spring Boot) and Python (FastAPI, Django, Flask), with Po
 - CI pipelines and Docker-based development
 - Turning requirements into PRDs, use cases and class diagrams before writing code
 
-Open to work: backend and full-stack roles (remote or Lagos).
+Open to work: backend and full-stack roles (remote, Lagos or ogun state).
 
 ---
 
